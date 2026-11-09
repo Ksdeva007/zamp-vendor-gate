@@ -1,0 +1,4 @@
+flask>=3.1,<4
+pypdf>=6,<7
+anthropic>=2,<3
+gunicorn>=23; sys_platform != "win32"
